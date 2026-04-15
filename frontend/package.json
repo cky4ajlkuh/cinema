@@ -1,0 +1,7 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "frontend for cinema app",
+  "main": "index.js",
+  "license": "MIT"
+}
